@@ -32,6 +32,8 @@ const countryGr = percentageOfWorld1 (150);
 const countryFr = percentageOfWorld1 (200);
 
 console.log (countryCh, countryGr, countryFr);
+console.log (countryCh, countryGr, countryFr);
+console.log (countryCh, countryGr, countryFr);
 
 //arrow function
 
